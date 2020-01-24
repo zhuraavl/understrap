@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'ZIGZAG-NotRounded';
+    src: url('ZIGZAG-NotRounded.woff2') format('woff2'),
+        url('ZIGZAG-NotRounded.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Standard Book';
+    src: url('StandardBook-Regular.woff2') format('woff2'),
+        url('StandardBook-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

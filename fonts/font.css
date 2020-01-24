@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'One';
+    src: url('1.woff2') format('woff2'),
+        url('1.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
